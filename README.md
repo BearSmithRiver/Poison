@@ -1,6 +1,6 @@
 # Poison - Quebrador de Hash MD5
 
-Um script Python 3 para quebrar hashes MD5 usando uma wordlist.
+Um script de ataque de força bruta em hashes MD5 que envolve tentar adivinhar a entrada original que corresponde a um determinado hash MD5. O MD5 é um algoritmo de hash criptográfico que produz uma sequência de 32 caracteres hexadecimais, independentemente do comprimento ou conteúdo da entrada original.
 ![bandicam 2023-12-24 06-36-40-885](https://github.com/BearSmithRiver/Poison/assets/150410689/aed096d4-11db-48e5-a96c-ce5a621c1e77)
 ![bandicam 2023-12-24 06-43-07-904](https://github.com/BearSmithRiver/Poison/assets/150410689/66d4295c-b646-4098-aba4-d2dc8063d6e9)
 
