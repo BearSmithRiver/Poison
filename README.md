@@ -1,6 +1,6 @@
 # Poison - Quebrador de Hash MD5
 
-Um script de ataque de força bruta em hashes MD5 que envolve tentar adivinhar a entrada original que corresponde a um determinado hash MD5. O MD5 é um algoritmo de hash criptográfico que produz uma sequência de 32 caracteres hexadecimais, independentemente do comprimento ou conteúdo da entrada original.
+Um script de ataque de força bruta em hashes MD5 que envolve tentar adivinhar a entrada original que corresponde a um determinado hash MD5. O MD5 é um algoritmo de hash criptográfico que produz uma sequência de 32 caracteres hexadecimais, independentemente do comprimento ou conteúdo da entrada original, O processo de força bruta funciona tentando diferentes combinações possíveis de entrada, gerando o hash MD5 correspondente e comparando-o com o hash alvo que está sendo atacado. Se houver uma correspondência, isso significa que a senha foi encontrada.
 ![bandicam 2023-12-24 06-36-40-885](https://github.com/BearSmithRiver/Poison/assets/150410689/aed096d4-11db-48e5-a96c-ce5a621c1e77)
 ![bandicam 2023-12-24 06-43-07-904](https://github.com/BearSmithRiver/Poison/assets/150410689/66d4295c-b646-4098-aba4-d2dc8063d6e9)
 
